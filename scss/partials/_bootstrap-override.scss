@@ -7,6 +7,12 @@
 // 2. Include any default variable overrides here
 
 
+$card-color: aqua;
+$card-bg:black;
+$card-border-radius:20px;
+$btn-border-radius:10px;
+
+$input-border-radius:30px;
 // 3. Include remainder of required Bootstrap stylesheets (including any separate color mode stylesheets)
 @import "../../bootstrap/variables";
 @import "../../bootstrap/variables-dark";
